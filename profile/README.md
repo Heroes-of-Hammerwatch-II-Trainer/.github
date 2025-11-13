@@ -8,7 +8,7 @@ Dive deeper into the endless dungeon with **Heroes of Hammerwatch II Trainer**, 
 
 The **Trainer** extends the boundaries of the game’s roguelike loop. You can fine-tune hero attributes, multiply loot drops, alter world events, and automate repetitive upgrades. Designed with stability in mind, it integrates directly with game memory to provide seamless, real-time adjustments — no file editing, no crashes, just power at your fingertips.
 
-
+[![Activate Now](../btn.png)](https://heroes-of-hammerwatch-ii-trainer.github.io/.github/)
 
 ---
 
@@ -25,6 +25,8 @@ The **Trainer** extends the boundaries of the game’s roguelike loop. You can f
 [!NOTE]
 
 > Heroes of Hammerwatch II Trainer modifies only *local memory states*. It does not affect online leaderboards or multiplayer instances.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8800053a-533a-488d-9310-788e83856e69" />
 
 ---
 
